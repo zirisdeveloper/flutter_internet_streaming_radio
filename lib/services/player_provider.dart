@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:internet_radio/models/radio.dart';
-import 'package:internet_radio/services/db_download_service.dart';
-import 'package:internet_radio/utils/db_service.dart';
+import 'package:ziri_radio/models/radio.dart';
+import 'package:ziri_radio/services/db_download_service.dart';
+import 'package:ziri_radio/utils/db_service.dart';
 
 enum RadioPlayerState { LOADING, STOPPED, PLAYING, PAUSED, COMPLETED }
 

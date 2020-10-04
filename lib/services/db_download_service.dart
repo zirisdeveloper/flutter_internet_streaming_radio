@@ -1,6 +1,6 @@
-import 'package:internet_radio/models/radio.dart';
-import 'package:internet_radio/utils/db_service.dart';
-import 'package:internet_radio/utils/web_service.dart';
+import 'package:ziri_radio/models/radio.dart';
+import 'package:ziri_radio/utils/db_service.dart';
+import 'package:ziri_radio/utils/web_service.dart';
 
 import '../config.dart';
 

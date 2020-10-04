@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:internet_radio/models/db_model.dart';
+import 'package:ziri_radio/models/db_model.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart' as p;
 

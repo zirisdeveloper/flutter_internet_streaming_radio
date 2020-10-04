@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:internet_radio/models/radio.dart';
-import 'package:internet_radio/services/player_provider.dart';
-import 'package:internet_radio/utils/hex_color.dart';
+import 'package:ziri_radio/models/radio.dart';
+import 'package:ziri_radio/services/player_provider.dart';
+import 'package:ziri_radio/utils/hex_color.dart';
 import 'package:provider/provider.dart';
 
 import 'now_playing_template.dart';

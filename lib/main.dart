@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:internet_radio/pages/radio_page.dart';
+import 'package:ziri_radio/pages/radio_page.dart';
 import 'package:provider/provider.dart';
 
 import 'pages/home_page.dart';

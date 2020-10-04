@@ -1,4 +1,4 @@
-package com.example.internet_radio
+package com.ziris.radio
 
 import io.flutter.embedding.android.FlutterActivity
 

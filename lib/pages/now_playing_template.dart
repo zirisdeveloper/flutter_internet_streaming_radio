@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:internet_radio/services/player_provider.dart';
-import 'package:internet_radio/utils/hex_color.dart';
+import 'package:ziri_radio/services/player_provider.dart';
+import 'package:ziri_radio/utils/hex_color.dart';
 import 'package:provider/provider.dart';
 
 class NowPlayingTemplate extends StatelessWidget {
